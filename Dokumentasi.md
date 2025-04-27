@@ -1,4 +1,4 @@
-[Link GitHub]([https://docs.github.com/])
+[Link GitHub](https://github.com/Ainirini/Kriptografi.git)
 
 # Mini-AES Project
 For Cryptography Middle Semester Project
